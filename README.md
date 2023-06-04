@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Optimize function calls to method calls (#8507)
